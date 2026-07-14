@@ -1,0 +1,9 @@
+                path {
+                    fill: #ffffff; 
+                    transform-origin: center;
+                    transition: transform 0.2s ease-in-out; 
+                }
+                 svg:hover path {
+                 transform: scale(1.1); 
+                 filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.8));
+                }
